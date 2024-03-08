@@ -1,0 +1,7 @@
+﻿  Lab2.cpp
+D:\OOP\Labs\Lab2\Lab2\ListMoney.h(10,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Lab2.cpp')
+  
+D:\OOP\Labs\Lab2\Lab2\Lab2.cpp(15,12): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1251)
+D:\OOP\Labs\Lab2\Lab2\Lab2.cpp(15,12): warning C4566: character represented by universal-character-name '\u00E1' cannot be represented in the current code page (1251)
+  Lab2.vcxproj -> D:\OOP\Labs\Lab2\x64\Debug\Lab2.exe

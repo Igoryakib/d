@@ -1,0 +1,16 @@
+1) Згадування попереднього
+2) Вирішення питань по гіту
+3) Побудова веб сайту
+4) Семантика/семантичні теги
+
+5) Дз по макету створити сайт
+
+
+Відеоматеріали для опрацювання:
+https://www.youtube.com/playlist?list=PLenwk9TUJzJ6ep0oogRRQZHzPMtTGKqF1 (глянути з 7 по 10 відео включно)
+https://youtu.be/4Ze7HAcsuJY?si=tOM_dWs62WHorAXj
+
+Матеріал для опрацювання:
+HTML
+https://css.in.ua/html/tags
+https://developer.mozilla.org/ru/docs/Web/HTML

@@ -1,0 +1,14 @@
+﻿  Film.cpp
+  Films.cpp
+D:\OOP\Lab2Nicole\Lab2Nicole\Films.h(13,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Films.cpp')
+  
+  Lab2Nicole.cpp
+D:\OOP\Lab2Nicole\Lab2Nicole\Films.h(13,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Lab2Nicole.cpp')
+  
+D:\OOP\Lab2Nicole\Lab2Nicole\Lab2Nicole.cpp(10,16): warning C4566: character represented by universal-character-name '\u00E9' cannot be represented in the current code page (1251)
+D:\OOP\Lab2Nicole\Lab2Nicole\Lab2Nicole.cpp(10,95): warning C4566: character represented by universal-character-name '\u00E7' cannot be represented in the current code page (1251)
+D:\OOP\Lab2Nicole\Lab2Nicole\Lab2Nicole.cpp(10,95): warning C4566: character represented by universal-character-name '\u00E9' cannot be represented in the current code page (1251)
+  Generating Code...
+  Lab2Nicole.vcxproj -> D:\OOP\Lab2Nicole\x64\Debug\Lab2Nicole.exe

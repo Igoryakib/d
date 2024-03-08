@@ -1,0 +1,19 @@
+1) Що таке програмування? Frontend? Backend? Full stack?
+2) Середовище розробки, встановлення, налаштування
+3) Структура проекту
+4) Вступ до HTML
+5) Git
+6) Питання/пропозиції
+7) Кінець
+
+Відеоматеріали для опрацювання:
+https://www.youtube.com/playlist?list=PLenwk9TUJzJ6ep0oogRRQZHzPMtTGKqF1 (глянути з 1 по 3 відео включно)
+https://youtu.be/4Ze7HAcsuJY?si=tOM_dWs62WHorAXj
+
+Матеріал для опрацювання:
+HTML
+https://css.in.ua/html/tags
+https://developer.mozilla.org/ru/docs/Web/HTML
+
+Git
+https://git-scm.com/book/uk/v2

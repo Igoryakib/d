@@ -1,0 +1,3 @@
+﻿  Laba7_2.cpp
+C:\Users\igory\OneDrive\Desktop\Laba7_2\Laba7_2\Laba7_2.cpp(12,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Laba7_2.vcxproj -> C:\Users\igory\OneDrive\Desktop\Laba7_2\x64\Debug\Laba7_2.exe

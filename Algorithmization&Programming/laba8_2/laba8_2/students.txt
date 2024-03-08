@@ -1,0 +1,10 @@
+Boyko Bohdan Bohdanovych, Institute of Mechanics and Machine Building, Mechanic, Accountant, 2
+Honcharenko Hanna Heorhiivna, Institute of Information Technology, Programmer, Designer, 2
+Ivanov Ivan Ivanovich, Institute of Information Technology, Engineer, Teacher, 2
+Kovalenko Kateryna Ivanivna, Institute of Information Technology, Programmer, Designer, 0
+Lysenko Liudmyla Leonidivna, Institute of Mechanics and Machine Building, Machinist, Seller, 0
+Melnik Mykola Mykolayovych, Institute of Economics and Management, Lawyer, Psychologist, 1
+Petrov Petro Petrovich, Institute of Economics and Management, Accountant, Doctor, 1
+Shevchenko Shevchenko Shevchenkovych, Institute of Economics and Management, Economist, Doctor, 1
+Sidorov Sidir Sidorovich, Institute of Mechanics and Machine Building, Machinist, Seller, 0
+Tkachenko Tetiana Tarasivna, Institute of Information Technology, Engineer, Teacher, 3
